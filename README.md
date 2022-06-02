@@ -1,8 +1,28 @@
-![MasterHead](https://www.softprodigy.com/wp-content/uploads/2021/07/full-stack-development-gif.gif)
 
-<h1 align="center">Hi 👋, I'm Rajendra</h1>
+ <div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+
+<h1 align="center" margin="50px">Hi 👋, I'm Rajendra</h1><div id="header" align="center">
+ 
+
 <h3 align="center">A passionate Full Stack Developer from India</h3>
-<img align="center" alt="Coding" width="400" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
+   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div id="badges">
+  
+  <a href="https://www.linkedin.com/in/rajendra-nali-760762170">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/the_r_error_404/">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" height="30px" width="30px" alt="Youtube Badge"/>
+  </a>
+  <a href="https://twitter.com/NaliRajendra?t=KFU-z_X22Xfy3EQrrIv9xA&s=09">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+ 
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajendranali&label=Profile%20views&color=0e75b6&style=flat" alt="rajendranali" /> </p>
@@ -10,14 +30,15 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajendranali" alt="rajendranali" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/nalirajendra" target="blank"><img src="https://img.shields.io/twitter/follow/nalirajendra?logo=twitter&style=for-the-badge" alt="nalirajendra" /></a> </p>
+  
 
-- 🌱 I’m currently learning **React.js and**
+ 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **Frontend Development**
+ 💬 Ask me about **Frontend Development**
 
-- 📫 How to reach me **rajendranali.dakshana17@gmail.com**
+📫 How to reach me **rajendranali.dakshana17@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Z3BiicevDHOuzK-NcWh52vmtvU_1nlLf/view?usp=sharing](https://drive.google.com/file/d/1Z3BiicevDHOuzK-NcWh52vmtvU_1nlLf/view?usp=sharing)
+ 📄 Know about my experiences [https://drive.google.com/file/d/1Z3BiicevDHOuzK-NcWh52vmtvU_1nlLf/view?usp=sharing](https://drive.google.com/file/d/1Z3BiicevDHOuzK-NcWh52vmtvU_1nlLf/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
