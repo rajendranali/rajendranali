@@ -9,6 +9,7 @@
 
 <h3 align="center">A passionate Full Stack Developer from India</h3>
    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+ 
 <div id="badges">
   
   <a href="https://www.linkedin.com/in/rajendra-nali-760762170">
@@ -21,6 +22,11 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+  
+ ## 🚀 About Me
+I'm a full stack developer.Purseuing MERN Stack at Masai School 🏢.I am passionate about coding and developings new things.
+Apart from coding i love doing 
+  1.Playing Outdoor Games 🏏 ⚽ 2.Painting 🎨🎨 3.Travvelings new Places and Exploring 🚀
  
 
 
