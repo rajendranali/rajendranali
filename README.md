@@ -44,7 +44,7 @@ Apart from coding i love doing
 
 📫 How to reach me **rajendranali.dakshana17@gmail.com**
 
- 📄 Know about my experiences [https://drive.google.com/file/d/1Z3BiicevDHOuzK-NcWh52vmtvU_1nlLf/view?usp=sharing](https://drive.google.com/file/d/1Z3BiicevDHOuzK-NcWh52vmtvU_1nlLf/view?usp=sharing)
+ 📄 Know about me more visit : [Portfolio](https://rajendra-nali-portfolio.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
