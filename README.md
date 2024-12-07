@@ -43,7 +43,7 @@ I'm a Full Stack Developer currently pursuing MERN Stack at Masai School 🏢. I
 - 🌱 I’m currently learning **MERN Stack**
 - 💬 Ask me about **Frontend Development**
 - 📫 How to reach me **rajendranali.dakshana17@gmail.com**
-- 📄 Know more about me [here](https://rajendra-nali-portfolio.netlify.app/)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
